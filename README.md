@@ -83,7 +83,7 @@ gcc -o guessing_game guessing_game.c
 ./guessing_game
 
 ---
-
+```
 GuessGameUsingC/
 │
 ├── guessGame.c
@@ -95,7 +95,7 @@ GuessGameUsingC/
 │   ├── levelX.jpg
 │   ├── limitError.jpg
 │   └── inputError.jpg
-
+```
 ## 🙌 Author
 
 - **Sourav Das**
