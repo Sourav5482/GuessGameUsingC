@@ -1,7 +1,7 @@
 
 ---
 
-Number Guessing Game in C
+# Number Guessing Game in C
 
 ---
 
@@ -18,7 +18,7 @@ The program gives hints if the guess is too high or too low.
 ## 📸 Sample Screenshots
 
 ###  Level 1
-![Level 1](Screenshots/level1.jpg)
+![Level 1](level1.jpg)
 
 ### Level 2
 ![Level 2](Screenshots/level2.jpg)
