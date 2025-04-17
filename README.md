@@ -21,17 +21,17 @@ The program gives hints if the guess is too high or too low.
 ![Level 1](level1.jpg)
 
 ### Level 2
-![Level 2](Screenshots/level2.jpg)
+![Level 2](level2.jpg)
 
 ### Level 3
-![level 3](Screenshots/level3.jpg)
+![level 3](level3.jpg)
 
 ### Another level
-![ Others level](Screenshots/levelX.jpg)
+![ Others level](levelX.jpg)
 ### Limit Error
-![ Limit Error](Screenshots/limitError.jpg)
+![ Limit Error](limitError.jpg)
 ### Input Error
-![ Input error](Screenshots/inputError.jpg)
+![ Input error](inputError.jpg)
 ---
 
 
